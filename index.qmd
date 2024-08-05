@@ -5,8 +5,27 @@ title: "Chenyu Lin"
 Welcome to my personal website! I’m Chris Lin, a data analyst with a strong foundation in mathematics and statistics. With a Bachelor's in Mathematics and Statistics and currently pursuing a Master's in Mechanical and Industrial Engineering from the University of Toronto, I specialize in data analysis, machine learning, and project management.
 
 ## What I Offer
-Data Analysis & Modeling: Proficient in Python and R, I have developed and implemented data models that provide actionable insights across different domains, including public safety and healthcare.
+### Data Analysis & Modeling: 
+Proficient in Python and R, I have developed and implemented data models that provide actionable insights across different domains, including public safety and healthcare.
 
-Machine Learning: My expertise in machine learning includes working with deep learning models like CNNs to analyze complex data sets and improve decision-making processes.
+### Machine Learning: 
+My expertise in machine learning includes working with deep learning models like CNNs to analyze complex data sets and improve decision-making processes.
 
-Project Management: With a strong foundation in project management principles, I have successfully led teams in completing research projects that contribute to better outcomes in community safety and public health.
+### Project Management: 
+With a strong foundation in project management principles, I have successfully led teams in completing research projects that contribute to better outcomes in community safety and public health.
+
+## Recent Projects
+### Toronto Robbery Analysis: 
+Analyzed and modeled crime data to provide recommendations to the Toronto Police Service on reducing home invasion incidents.
+
+### Building Safety in Toronto: 
+Conducted a comprehensive analysis of rental properties to evaluate safety conditions and contribute to the RentSafeTO initiative.
+
+### Flu Mortality Forecasting: 
+Built a seasonal ARIMA model to predict flu-related mortality in the U.S., showcasing the predictive power of time series analysis.
+
+### Land Use Classification: 
+Developed a CNN model to classify land use images with 93% accuracy, demonstrating proficiency in deep learning and image analysis.
+
+## Let’s Connect
+I’m always open to new opportunities and collaborations. Feel free to reach out to me through <chrislin0030@gmail.com> 
