@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Chenyu Lin"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  sidebar:
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://code.com
+          - text: Report a Bug
+            href:  https://bugs.com
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

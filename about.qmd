@@ -1,0 +1,26 @@
+---
+title: "About"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+With 7 years of international experience and a passion for data-driven decision-making, I bring a unique blend of technical expertise and analytical skills. My academic journey has equipped me with a deep understanding of data analysis, non-linear optimization, and machine learning techniques, which I’ve applied in various projects ranging from crime pattern analysis to public safety and predictive modeling.
+
+## Education
+
+University of Toronto, Toronto | Ontario, CA
+
+Bachelor of Science, Major in Mathematics and Statistics | Sept 2019 - June 2023
+
+University of Toronto, Toronto | Ontario, CA
+
+Master of Mechnical and Industrial Engineering | Sept 2023 - June 2025
+

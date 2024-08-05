@@ -1,0 +1,12 @@
+---
+title: "Chenyu Lin"
+---
+
+Welcome to my personal website! I’m Chris Lin, a data analyst with a strong foundation in mathematics and statistics. With a Bachelor's in Mathematics and Statistics and currently pursuing a Master's in Mechanical and Industrial Engineering from the University of Toronto, I specialize in data analysis, machine learning, and project management.
+
+## What I Offer
+Data Analysis & Modeling: Proficient in Python and R, I have developed and implemented data models that provide actionable insights across different domains, including public safety and healthcare.
+
+Machine Learning: My expertise in machine learning includes working with deep learning models like CNNs to analyze complex data sets and improve decision-making processes.
+
+Project Management: With a strong foundation in project management principles, I have successfully led teams in completing research projects that contribute to better outcomes in community safety and public health.
