@@ -24,4 +24,4 @@ Welcome to my personal website! I’m Chris Lin, a data analyst with a strong fo
 I’m always open to new opportunities and collaborations. Feel free to reach out to me through <chrislin0030@gmail.com> 
 
 ## Test
-This is a Test for CI
+This is a Test for CI, test, test
