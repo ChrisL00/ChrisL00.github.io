@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chenyu Lin",
+    "section": "",
+    "text": "Welcome to my personal website! I’m Chris Lin, a data analyst with a strong foundation in mathematics and statistics. With a Bachelor’s in Mathematics and Statistics and currently pursuing a Master’s in Mechanical and Industrial Engineering from the University of Toronto, I specialize in data analysis, machine learning, and project management."
+  },
+  {
+    "objectID": "index.html#what-i-offer",
+    "href": "index.html#what-i-offer",
+    "title": "Chenyu Lin",
+    "section": "What I Offer",
+    "text": "What I Offer\n\nData Analysis & Modeling: Proficient in Python and R, I have developed and implemented data models that provide actionable insights across different domains, including public safety and healthcare.\nMachine Learning: My expertise in machine learning includes working with deep learning models like CNNs to analyze complex data sets and improve decision-making processes.\nProject Management: With a strong foundation in project management principles, I have successfully led teams in completing research projects that contribute to better outcomes in community safety and public health."
+  },
+  {
+    "objectID": "index.html#recent-projects",
+    "href": "index.html#recent-projects",
+    "title": "Chenyu Lin",
+    "section": "Recent Projects",
+    "text": "Recent Projects\n\nToronto Robbery Analysis: Analyzed and modeled crime data to provide recommendations to the Toronto Police Service on reducing home invasion incidents.\nBuilding Safety in Toronto: Conducted a comprehensive analysis of rental properties to evaluate safety conditions and contribute to the RentSafeTO initiative.\nFlu Mortality Forecasting: Built a seasonal ARIMA model to predict flu-related mortality in the U.S., showcasing the predictive power of time series analysis.\nLand Use Classification: Developed a CNN model to classify land use images with 93% accuracy, demonstrating proficiency in deep learning and image analysis."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Chenyu Lin",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI’m always open to new opportunities and collaborations. Feel free to reach out to me through chrislin0030@gmail.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Chenyu Lin",
+    "section": "",
+    "text": "With 7 years of international experience and a passion for data-driven decision-making, I bring a unique blend of technical expertise and analytical skills. My academic journey has equipped me with a deep understanding of data analysis, non-linear optimization, and machine learning techniques, which I’ve applied in various projects ranging from crime pattern analysis to public safety and predictive modeling."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Chenyu Lin",
+    "section": "Education",
+    "text": "Education\nUniversity of Toronto, Toronto | Ontario, CA\nBachelor of Science, Major in Mathematics and Statistics | Sept 2019 - June 2023\nUniversity of Toronto, Toronto | Ontario, CA\nMaster of Mechnical and Industrial Engineering | Sept 2023 - June 2025"
+  }
+]
