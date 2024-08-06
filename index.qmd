@@ -21,10 +21,6 @@ Welcome to my personal website! I’m Chris Lin, a data analyst with a strong fo
 - **Land Use Classification:** Developed a CNN model to classify land use images with 93% accuracy, demonstrating proficiency in deep learning and image analysis.
 
 ## Let’s Connect
-<<<<<<< Updated upstream
-I’m always open to new opportunities and collaborations. Feel free to reach out to me through <chrislin0030@gmail.com> 
-=======
 I’m always open to new opportunities and collaborations. Feel free to reach out to me through <chrislin0030@gmail.com> 
 
 ## Test
->>>>>>> Stashed changes
